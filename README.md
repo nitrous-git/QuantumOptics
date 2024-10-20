@@ -1,2 +1,2 @@
 # QuantumOptics-
-Quantum Mechanics and Optics repo
+PHY 3320 - Quantum Optics 
