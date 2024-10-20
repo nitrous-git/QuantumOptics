@@ -1,5 +1,4 @@
 #Assignement 1 
 
-Numeric resolution of Schrodinger equation with odeint
-Ramsey fringes and qubit pulsed excitation 
-Visualized on Bloch Sphere with python 3 (matplotlib, numpy, QuTip)
+Analytic and numeric resolution of Schrodinger equation with odeint
+Ramsey fringes and qubit pulsed excitation visualized on Bloch Sphere with python 3 (matplotlib, numpy, QuTip)
